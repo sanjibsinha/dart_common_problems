@@ -1,4 +1,4 @@
-import 'package:dart_common_problems/getter_and_setter.dart';
+import 'package:dart_common_problems/sound_null_safety.dart';
 
 void main(List<String> args) {
   var instanceOfGetterAndSetter = SoundNullSafety();

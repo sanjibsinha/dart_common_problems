@@ -1,4 +1,4 @@
-class GetterAndSetter {
+class SoundNullSafety {
   /// public properties
   ///
   /// anyone can access them from outside
